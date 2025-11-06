@@ -20,6 +20,9 @@ The goal is to uncover insights into **spending patterns**, **customer segments*
 
 ---
 
+<img width="630" height="430" alt="image" src="https://github.com/user-attachments/assets/d978828c-5ec8-4d3c-add9-aa930f1a41f3" />
+
+
 ## 🐍 3. Exploratory Data Analysis using Python
 Performed data cleaning, preprocessing, and feature engineering using **Python (Pandas, NumPy)**.
 
@@ -56,15 +59,13 @@ SQL was used to derive key **business insights** from the cleaned dataset.
 ## 📊 5. Power BI Dashboard
 An **interactive Power BI dashboard** was designed for visual storytelling.
 
-**Key Visuals:**
-- 📊 Revenue by Gender, Age Group, and Subscription Status  
-- 🏆 Top Products by Category and Rating  
-- 💸 Discount vs. Purchase Amount Analysis  
-- 👥 Customer Segmentation Summary  
-- 🚀 Seasonality and Shipping Trends  
-
-*(Add your dashboard image below when available)*  
-![Power BI Dashboard Preview](images/dashboard_preview.png)
+**Key Visuals:**  
+- 📦 Sales by Category, Size, and Item Purchased  
+- 🎨 Top 5 Colors by Total Sales  
+- 👥 Sales by Age Group and Gender  
+- 🗺️ Sales Distribution by State  
+- 💰 Sales Trends by Category and Size  
+- 🏆 Top Performing Products and Categories  
 
 ---
 
